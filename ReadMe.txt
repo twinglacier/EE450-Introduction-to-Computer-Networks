@@ -1,5 +1,5 @@
 Name: Yi Jiang
-Student ID: #5006433434
+Student ID: 
 
 What I have done in the assignment:
 I had built a system exchanging data and output the delay by using two databases. After inputting link ID, size and power, first send it to the search server (Server A and B), and look at whether the databases have or not a link ID matched. If so, send the bandwidth, length, velocity and noisepower via AWS to the compute server (Server C). Then get the delay time and pass it to the client. Simutaneously, send the detailed information to the monitor.
